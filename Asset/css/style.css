@@ -1,0 +1,26 @@
+body{
+    padding:0;
+    margin:0;
+    align: center;
+}
+
+#box{ 
+
+ height: 40px;
+ width: 200px;
+ padding: 20px;
+ border: 5px solid red;
+ font-size: 15px;
+ text-align: center;
+ 
+    
+
+}
+p{
+
+font-size: 30px;
+font-family: monospace;
+color: royalblue;
+text-align:justify;
+
+}
