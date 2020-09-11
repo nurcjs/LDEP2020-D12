@@ -1,26 +1,63 @@
-body{
-    padding:0;
-    margin:0;
-    align: center;
+
+.container .navbar{
+
+    width: 950px;
+    height: 80px;
+    background-color: #683091;
+
 }
 
-#box{ 
+.container .navbar .btn{
 
- height: 40px;
- width: 200px;
- padding: 20px;
- border: 5px solid red;
- font-size: 15px;
- text-align: center;
- 
+    background: white;
+    display: inline;
+    float: left;
+    
+}
+ul li {
+    text-decoration: none;
+}
+
+#tex{
+
+    font-size: 20px;
+    color: white;
+    float: left;
+    display: flex;
+}
+
+.container-2 .navbar-2{
+
+    width: 950px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 410px;
+    background-color: #683091;
     
 
 }
-p{
 
-font-size: 30px;
-font-family: monospace;
-color: royalblue;
-text-align:justify;
+
+#wb-name{
+    font-size: 50px;
+    color: white;
+    padding-left: 50px;
+    
+}
+
+#wb-title{
+
+    
+    font-size: 30px;
+    color: white;
+    padding-left: 300px;
 
 }
+
+
+
+
+    
+
+
+
